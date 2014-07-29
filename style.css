@@ -47,11 +47,34 @@ table {
 
 
 body{
-	font-family: 'Gentium Book Basic', serif;
+	font-family: 'Open Sans', serif;
 	background-color: black;
 }
 
-h1 { font-family: 'Open Sans', Arial, serif; font-weight: 800; }
+h1 {
+    font-family: 'Yanone Kaffeesatz','Alegreya', serif;
+    font-weight: 700;
+    line-height: 1.5em;
+    font-size: 1.5em;
+    margin: 0 0 .5em 0;
+    }
+h3 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 23px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0 0 23px 0;
+    }
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 23px;
+    margin: 0 0 23px 0;
+    }
+
+
 
 p{
 	margin-bottom: 15px;
@@ -83,14 +106,14 @@ p:last-child{
 
 
 .quickbio{
-	background: white;
+	color: white;
 	width:auto;
 	margin: 20px;
 	padding:20px;
 }
 
 .myname{
-	font-size: 28px;
+	font-size: 50px;
 	font-weight: 900;
 	margin-bottom: 15px;
 	text-align: center;
@@ -120,6 +143,7 @@ p:last-child{
 	margin-right: 5px;
 	margin-left: 5px;
 }
+
 
 /* Tablet and Above */
 

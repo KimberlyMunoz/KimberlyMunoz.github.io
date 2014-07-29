@@ -1,0 +1,15 @@
+// font-face fonts
+// see http://compass-style.org/docs/reference/compass/css3/font_face/
+
+//@import "compass/css3/font-face"
+
+@font-face {
+    font-family: "AvenirLT-Medium";
+    src: url(../fonts/2685CF_0_0-052d5654373579b5bdd40b5ffdf606b8.eot);
+    src: url(../fonts/2685CF_0_0.eot?#iefix) format("embedded-opentype"), url(../fonts/2685CF_0_0-f12a481f55beb3f2b521ae741f188ff8.woff) format("woff"), url(../fonts/2685CF_0_0-74b1a6b66358e7d7154dc08c5517dc59.ttf) format("truetype"), url(../fonts/2685CF_0_0.svg#wf) format("svg");
+}
+@font-face {
+    font-family: "AvenirLT-Heavy";
+    src: url(/fonts/2685CF_1_0-0e48f229328f5ccf383574244c7b47c1.eot);
+    src: url(/fonts/2685CF_1_0.eot?#iefix) format("embedded-opentype"), url(../fonts/2685CF_1_0-636cfd4c41c83743abc43ce16417d963.woff) format("woff"), url(../fonts/2685CF_1_0-d5f0247e5cead8f08763b2cc28ed0cc2.ttf) format("truetype"), url(../fonts/2685CF_1_0.svg#wf) format("svg");
+}
