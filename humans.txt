@@ -1,0 +1,28 @@
+/* TEAM */
+
+Person who did everything: Kimberly Muñoz
+Site: http://www.kimberlymunoz.com/
+Twitter: @kimberlymunoz
+Location: California                    
+
+Primary Coffee Procurer: Kevin Morrell
+Site: http://www.kmorrell.com/
+Twitter: @kmorrell827
+Location: California 
+										
+/* THANKS */
+
+							
+Name: name or url       
+
+
+/* SITE */
+
+jQuery [http://jquery.com/]
+  OnePage Scroll 
+
+
+/* UNDER THE HOOD */
+
+Grunt [http://gruntjs.com/]
+Sass
