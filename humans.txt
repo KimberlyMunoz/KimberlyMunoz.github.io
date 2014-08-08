@@ -13,7 +13,7 @@ Location: California
 /* THANKS */
 
 							
-Name: name or url       
+Coffee: http://www.keurig.com
 
 
 /* SITE */
