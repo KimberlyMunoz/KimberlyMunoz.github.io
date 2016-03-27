@@ -15,3 +15,11 @@ twitter_username: kimberlymunoz
 github_username:  kimberlymunoz
 
 markdown: kramdown
+
+exclude: [
+  package.json,
+  Gruntfile.js,
+  node_modules,
+  Makefile,
+  README.md
+]
