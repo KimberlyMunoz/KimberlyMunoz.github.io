@@ -4,7 +4,7 @@
   "description": "This is my constantly under-construction home page I use test new things like Grunt.",
   "main": "Gruntfile.js",
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "1.0.0",
     "grunt-contrib-concat": "^0.5.0",
     "grunt-contrib-connect": "^0.8.0",
     "grunt-contrib-htmlmin": "^0.3.0",
@@ -19,6 +19,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github:KimberlyMunoz/kimberlymunoz.com.git"
+    "url": "git@github:git@github.com:KimberlyMunoz/KimberlyMunoz.github.io.git"
   }
 }
