@@ -1,0 +1,25 @@
+title: Website of Kimberly Muñoz
+
+email: hi@kimberlymunoz.com
+
+description: > # this means to ignore newlines until "baseurl:"
+  Kimberly Munoz is a web developer in California.
+  This website features a biography and blog posts.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "http://www.kimberlymunoz.com" # the base hostname & protocol for your site
+
+twitter_username: kimberlymunoz
+
+github_username:  kimberlymunoz
+
+markdown: kramdown
+
+exclude: [
+  package.json,
+  Gruntfile.js,
+  node_modules,
+  Makefile,
+  README.md
+]
