@@ -31,12 +31,18 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    1200px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
 
 
+// Breakpoints
+
+$small-max:       600px;
+$med-min:         $small-max + 1;
+$med-max:         800px;
+$large-min:       $med-max + 1;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -51,6 +57,18 @@ $on-laptop:        800px;
   }
 }
 
+
+@mixin respond-to-max($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin respond-to-min($device) {
+  @media screen and (min-width: $device) {
+    @content;
+  }
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

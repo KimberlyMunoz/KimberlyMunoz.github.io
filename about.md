@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About
+title: About Kimberly
 permalink: /about/
-published: false
+published: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Kimberly Muñoz is Front End Web Developer at the Consumer Financial Protection Bureau, where she works on projects such as eRegulations and the redesign of ConsumerFinance.gov. Prior to working with the Bureau, she was at ShareProgress where she did front-end web development and trained clients to effectively use A/B testing to recruit more supporters. In that role, Kimberly has worked with labor unions, political campaigns, nonprofits and advocacy groups.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Prior to ShareProgress, Kimberly worked on digital campaigns at Rebuild the Dream where she combined online advocacy with offline actions for the "Don't Double My Rate" campaign to get student loan interest rate relief for millions of students. She was also the technical lead for Dr. Raul Ruiz's congressional run in her hometown.
