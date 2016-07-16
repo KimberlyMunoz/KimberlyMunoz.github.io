@@ -1,8 +1,21 @@
 /**
+ *  Common layout elements
+ */
+
+ .u-wrapper {
+   margin-left: auto;
+   margin-right: auto;
+
+  @include respond-to-min($large-min) {
+    width: $content-width;
+  }
+}
+
+/**
  * Site header
  */
 .site-header {
-  background-color: $black;
+  background-color: $color-primary-darkest;
   color: $background-color;
 }
 
@@ -17,7 +30,7 @@
 
 nav {
   margin: 0;
-  padding: 1em;
+  padding: .75em;
   width: 100%;
   text-align: center;
 
@@ -46,7 +59,6 @@ nav {
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-around;
-    min-height: 50px;
   }
 
   .nav_item {
@@ -63,6 +75,10 @@ nav {
 /**
  * Page content
  */
+
+.header-image {
+    margin-bottom: $spacing-unit;
+}
 .content {
     padding: $spacing-unit 0;
 }
@@ -135,6 +151,3 @@ nav {
         }
     }
 }
-
-
-

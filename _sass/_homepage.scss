@@ -2,43 +2,11 @@
  * Introduction
  */
 
-
-.u-flex-center {
+.introduction {
   display: flex;
   align-items: center;
-  justify-content: center;
 }
-
-.u-full-page {
-  width: 100%;
-  height: 100vh;
-}
-
-.introduction__container {
-  background: #fff;
-
-  @media screen and (min-width: $on-palm) {
-    background: $black url("../img/Kimberly_Munoz_-_US_Capitol.jpg") no-repeat center;
-    background-size: cover;
-    overflow: hidden;
-  }
-}
-
-.introduction {
-  position: relative;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-
-.circle {
-  width: 100%;
-  height: 100%;
-  max-width: 500px;
-  max-height: 500px;
-  text-align: center;
-  border-radius: 50%;
-  background: rgba(0,0,0,0.7);
-  color: $background-color;
+.introduction__image {
+  float: left;
+  margin-right: $spacing-unit;
 }

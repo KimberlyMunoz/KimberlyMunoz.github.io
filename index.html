@@ -1,20 +1,31 @@
 ---
 layout: default
-fixed_header: true
 ---
-<div class="introduction__container u-flex-center u-full-page">
-	<div class="circle">
-		<section class="introduction">
-			<h1 class="introduction__name">Meet Kimberly Mu&ntilde;oz</h1>
-			<p>Kimberly is a software developer in California.</p>
-			<div class="social-media">
-				{% if site.github_username %}
-	        {% include icon-github.html username=site.github_username %}
-	      {% endif %}
-	      {% if site.twitter_username %}
-	        {% include icon-twitter.html username=site.twitter_username %}
-	      {% endif %}
-		</section>
+<section class="introduction">
+	<img class="introduction__image" src="/img/kimberly-munoz-painted-by-scout.jpg">
+	<div class="introduction__content">
+		<h1 class="introduction__name">Kimberly Mu&ntilde;oz</h1>
+		<h2>
+				Web developer, Californian,<br>
+			  Would do anything for Selena
+		</h2>
+		<p>
+			Kimberly is a software developer in California
+			specializing on accessibility and front-end performance.
+			She currently spends her days working at the
+			<a href="http://www.consumerfinance.gov">Consumer Financial Protection Bureau</a>
+			and spends her nights on passion projects like
+			<a href="http://www.tinyletter.com/latinasintech">Latinas in Tech newsletter</a>,
+			<a href="http://techqueria.org">Techqueria</a> and
+			preparing presentations on technical topics.
+		</p>
+		<div class="social-media">
+			{% if site.github_username %}
+		    {% include icon-github.html username=site.github_username %}
+		  {% endif %}
+		  {% if site.twitter_username %}
+		    {% include icon-twitter.html username=site.twitter_username %}
+		  {% endif %}
+		</div>
 	</div>
-</div>
-
+</section>
