@@ -2,11 +2,24 @@
  * Introduction
  */
 
-.introduction {
-  display: flex;
-  align-items: center;
-}
 .introduction__image {
-  float: left;
-  margin-right: $spacing-unit;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.introduction__content {
+  padding-left: $spacing-unit;
+  padding-right: $spacing-unit;
+}
+
+@include respond-to-min($large-min) {
+  .introduction {
+    display: flex;
+    align-items: center;
+  }
+  .introduction__image {
+    float: left;
+    margin-right: $spacing-unit;
+  }
 }
