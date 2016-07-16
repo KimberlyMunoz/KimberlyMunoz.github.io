@@ -5,11 +5,25 @@ permalink: /about/
 published: true
 ---
 
-Kimberly Muñoz is Front End Web Developer with a passion for creating accessible products for all Americans.
-She is currently a Technology and Innovation Fellow at the [Consumer Financial Protection Bureau](consumerfinance.gov),
-where she worked on projects such as eRegulations and the redesign of ConsumerFinance.gov.
+Hi!
 
-She lives in San Francisco, where she leads a small meetup group of Latinas in Technology and volunteers at her local feminist hackerspace.
+I'm a web developer, event organizer and recovering campaigner. 
+I believe in advocating for better user experiences for as many users as possible.
 
-Prior to working with the Bureau, she worked with labor unions, political campaigns, nonprofits and advocacy groups to develop effective online campaignstrained clients to effectively use A/B testing to recruit more supporters.
-She was also the technical lead for Dr. Raul Ruiz's congressional run in her hometown.
+If you need a bio for a talk or want to know more about me, check out the biographies below.
+
+## Twitter bio
+
+Currently building websites to make financial markets work for consumers. Volunteers at @CMCAA, @LatinasTech and @DoubleUnionSF.
+
+
+## Short Bio
+
+Kimberly Muñoz is a front-end developer, community event organizer and recovering campaigner. She has a passion for accessibility, performance and open source and creates events for Latinas in Tech in her spare time.  
+
+
+## Standard Bio
+
+Kimberly Muñoz is a front-end developer with a mission to create fast, accessible experiences for as many users as possible. She currently works as Technology and Innovation Fellow at the Consumer Financial Protection Bureau where she helped launch the redesign of Consumerfinance.gov, a new responsive website built on Django, and promotes accessibility in the Bureau's open source work. 
+
+Previously, she was a campaigner working on economic issues, launching a winning congressional campaign for a first-time candidate, and helped launch a progressive technology startup to help campaigns find more supporters. In her spare time, she leads a Latinas in Tech meetup group and volunteers as a Board Member of the Claremont McKenna College Alumni Association.
