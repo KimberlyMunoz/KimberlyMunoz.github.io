@@ -27,7 +27,7 @@ body {
 
 nav {
     width: 100%;
-    
+
 }
 
 
@@ -95,16 +95,19 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
-    text-decoration: none;
+    color: $color-primary;
+    text-decoration: underline;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: $color-visited;
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: $color-primary-darker;
+    }
+
+    &.link__undecorated {
+        text-decoration: none;
     }
 }
 

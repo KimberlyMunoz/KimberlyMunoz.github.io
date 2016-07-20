@@ -4,40 +4,7 @@
 
 @charset "utf-8";
 
-
 // Colors
-
-$teal:              #002626;
-$black:             #000;
-
-// Our variables
-
-$base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$header-font-family: "Yanone Kaffeesatz", "Alegreya", serif;
-$small-header-font-family: "Open Sans Condensed", sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-// Width of the content area
-$content-width:    750px;
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Color
 $color-primary:              #0071bc;
 $color-primary-darker:       #205493;
 $color-primary-darkest:      #112e51;
@@ -97,6 +64,32 @@ $med-max:         600px;
 $large-min:       $med-max + 1;
 $large-max:       1201px;
 
+// Our variables
+
+$base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$header-font-family: "Yanone Kaffeesatz", "Alegreya", serif;
+$small-header-font-family: "Open Sans Condensed", sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       $color-base;
+$background-color: #fdfdfd;
+$brand-color:      $color-primary-alt;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    750px;
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
@@ -104,6 +97,7 @@ $large-max:       1201px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
