@@ -19,11 +19,11 @@ Currently building websites to make financial markets work for consumers. Volunt
 
 ## Short Bio
 
-Kimberly Muñoz is a front-end developer, community event organizer and recovering campaigner. She has a passion for accessibility, performance and open source and creates events for Latinas in Tech in her spare time.  
+Kimberly Muñoz is a front-end developer, community event organizer and recovering campaigner. She has a passion for accessibility, performance and open source and writes a weekly newsletter for Latinas in Tech in her spare time.  
 
 
 ## Standard Bio
 
 Kimberly Muñoz is a front-end developer with a mission to create fast, accessible experiences for as many users as possible. She currently works as Technology and Innovation Fellow at the Consumer Financial Protection Bureau where she helped launch the redesign of Consumerfinance.gov, a new responsive website built on Django, and promotes accessibility in the Bureau's open source work. 
 
-Previously, she was a campaigner working on economic issues, launching a winning congressional campaign for a first-time candidate, and helped launch a progressive technology startup to help campaigns find more supporters. In her spare time, she leads a Latinas in Tech meetup group and volunteers as a Board Member of the Claremont McKenna College Alumni Association.
+Previously, she was a campaigner working on economic issues, launching a winning congressional campaign for a first-time candidate, and helped launch a progressive technology startup to help campaigns find more supporters. In her spare time, she curates a Latinas in Tech newsletter and volunteers as a Board Member of the Claremont McKenna College Alumni Association.
