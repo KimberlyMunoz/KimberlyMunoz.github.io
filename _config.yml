@@ -10,6 +10,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "http://www.kimberlymunoz.com" # the base hostname & protocol for your site
 
+logo: kimberly-munoz-painted-by-scout.jpg
+
+permalink: /blog/:year/:month/:title/
+
 twitter_username: kimberlymunoz
 
 github_username:  kimberlymunoz
