@@ -34,7 +34,14 @@ technology journalist, Salvador Rodriguez, to bust that myth wide open.
 
 **[Vote for _Myth Busters: The Not-So-Broken Pipeline_](http://panelpicker.sxsw.com/vote/66392)**
 
-Once employers have rejected the pipeline myth Udacity's Ana Diaz-Hernandez is ready with a presentation
+CODE2040 isn't stopping at the pipeline myth. Karla Monterroso and 
+Github's Danilo Campos will be talking about how the technical interview
+can introduce bias that excludes groups from tech.
+
+**[Vote for _The Technical Interview, Bias, and What We Learned_](http://panelpicker.sxsw.com/vote/63552)**
+
+Once employers have rejected the pipeline myth and want more feedback on improving their technical interviews, 
+Udacity's Ana Diaz-Hernandez is ready with a presentation
 on hiring technical staff with techniques that work and won't negatively impact a company's diversity.
 
 **[Vote for _Science or Art? The Alchemy Behind Tech Hiring_](http://panelpicker.sxsw.com/vote/67458)**
