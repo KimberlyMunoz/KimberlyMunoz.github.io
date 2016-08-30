@@ -32,8 +32,12 @@ on a lack of available candidates and "pipeline problems".
 CODE2040 is teaming with Pandora, Management of Leadership for Tomorrow, and
 technology journalist, Salvador Rodriguez, to bust that myth wide open.
 
-
 **[Vote for _Myth Busters: The Not-So-Broken Pipeline_](http://panelpicker.sxsw.com/vote/66392)**
+
+Once employers have rejected the pipeline myth Udacity's Ana Diaz-Hernandez is ready with a presentation
+on hiring technical staff with techniques that work and won't negatively impact a company's diversity.
+
+**[Vote for _Science or Art? The Alchemy Behind Tech Hiring_](http://panelpicker.sxsw.com/vote/67458)**
 
 Another related panel, Dev Bootcamp is part of a panel with other training camps and technology companies
 on non-traditional paths into the technology industry and how coding boot camps can diversify tech.
@@ -75,6 +79,11 @@ Sara Inés Calderón is also doing a panel on accessibility and inclusion.
 She's a Latina web developer, writer and editor of Más Wired.
 
 **[Vote for _Baking Inclusivity & Accessibility Into Software_](http://panelpicker.sxsw.com/vote/61547)**
+
+Zhalisa Clarke at Udacity is doing a panel on how companies and people can start investing in skills 
+in new emerging fields like the Internet of Things, Virtual Reality and Augmented Reality.
+
+**[Vote for _IoT, VR & AI, Oh My! The Impending Tech Skills Gap_](http://panelpicker.sxsw.com/vote/67511)**
 
 
 ## Bonus panel: Latinas in zines
